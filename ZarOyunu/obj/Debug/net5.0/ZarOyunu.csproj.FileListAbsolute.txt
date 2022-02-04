@@ -1,0 +1,16 @@
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\bin\Debug\net5.0\ZarOyunu.exe
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\bin\Debug\net5.0\ZarOyunu.deps.json
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\bin\Debug\net5.0\ZarOyunu.runtimeconfig.json
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\bin\Debug\net5.0\ZarOyunu.runtimeconfig.dev.json
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\bin\Debug\net5.0\ZarOyunu.dll
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\bin\Debug\net5.0\ref\ZarOyunu.dll
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\bin\Debug\net5.0\ZarOyunu.pdb
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ZarOyunu.csproj.AssemblyReference.cache
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ZarOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ZarOyunu.AssemblyInfoInputs.cache
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ZarOyunu.AssemblyInfo.cs
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ZarOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ZarOyunu.dll
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ref\ZarOyunu.dll
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ZarOyunu.pdb
+C:\Users\Student1\Desktop\PROJELERİM\ZarOyunu\obj\Debug\net5.0\ZarOyunu.genruntimeconfig.cache

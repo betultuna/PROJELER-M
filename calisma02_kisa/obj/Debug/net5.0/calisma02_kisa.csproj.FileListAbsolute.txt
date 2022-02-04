@@ -1,0 +1,16 @@
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\bin\Debug\net5.0\calisma02_kisa.exe
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\bin\Debug\net5.0\calisma02_kisa.deps.json
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\bin\Debug\net5.0\calisma02_kisa.runtimeconfig.json
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\bin\Debug\net5.0\calisma02_kisa.runtimeconfig.dev.json
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\bin\Debug\net5.0\calisma02_kisa.dll
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\bin\Debug\net5.0\ref\calisma02_kisa.dll
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\bin\Debug\net5.0\calisma02_kisa.pdb
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\calisma02_kisa.csproj.AssemblyReference.cache
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\calisma02_kisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\calisma02_kisa.AssemblyInfoInputs.cache
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\calisma02_kisa.AssemblyInfo.cs
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\calisma02_kisa.csproj.CoreCompileInputs.cache
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\calisma02_kisa.dll
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\ref\calisma02_kisa.dll
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\calisma02_kisa.pdb
+C:\Users\Student1\Desktop\PROJELERİM\calisma02_kisa\obj\Debug\net5.0\calisma02_kisa.genruntimeconfig.cache

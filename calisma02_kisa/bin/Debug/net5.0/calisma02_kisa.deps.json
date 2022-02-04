@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "calisma02_kisa/1.0.0": {
+        "runtime": {
+          "calisma02_kisa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calisma02_kisa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
